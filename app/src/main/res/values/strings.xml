@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ForteApp</string>
+    <string name="put_images_mess">Please, put images to download folder</string>
+    <string name="explain_request_mess">You need to grant permissions in app settings!</string>
+</resources>
